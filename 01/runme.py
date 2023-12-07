@@ -1,4 +1,4 @@
-inputfiles = ['example.txt','example2.txt','input1.txt']
+inputfiles = ['example1.txt','example2.txt','input.txt']
 
 for filename in inputfiles:
     with open(filename) as file:
